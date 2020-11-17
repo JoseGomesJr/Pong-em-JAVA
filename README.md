@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package pongfisica;
 
 import java.awt.Color;
@@ -18,12 +14,6 @@ import java.util.Random;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.Timer;
-
-/**
- *
- * @author josej
- */
-
 public class PongFisica extends JFrame implements ActionListener{
     Grafico gr;
     Timer time;
